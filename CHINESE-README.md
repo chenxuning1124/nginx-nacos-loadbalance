@@ -105,7 +105,7 @@ vim config.properties
 #### Step 3: 启动
 ````
 cd ../bin
-startup.sh
+sh startup.sh
 ````
 
 ## 联系方式

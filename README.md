@@ -111,7 +111,7 @@ With description
 #### Step 3: Start Server
 ````
 cd ../bin
-startup.sh
+sh startup.sh
 ````
 
 ## Contact
